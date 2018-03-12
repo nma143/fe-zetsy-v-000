@@ -60,3 +60,6 @@ footer{
 	border-style: solid;
 	border-color: #ccc;
 }
+a{
+	text-decoration-line: none;
+}
