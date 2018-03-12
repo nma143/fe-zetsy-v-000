@@ -27,3 +27,6 @@ h1 {
 	font-family: 'Baskerville', serif;
 	margin: 0 0 5px;
 }
+#featured img{
+	border: 5px rgb(152,173,166) solid;
+}
