@@ -65,6 +65,6 @@ a {
 }
 
 #press img:hover{
-	border-color: #fff;
+	border-color: rgb(152, 173, 166);
 	cursor: pointer;
 }
