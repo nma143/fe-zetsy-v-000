@@ -18,10 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
+header a {
 	color: rgb(152, 173, 166);
 	text-decoration:none;
-	text-decoration-line: none;
+}
+h1 {
 	font-size: 5em;
 	font-family: 'Baskerville', serif;
 	margin: 0 0 5px;
