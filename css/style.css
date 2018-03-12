@@ -60,6 +60,11 @@ footer{
 	border-style: solid;
 	border-color: #ccc;
 }
-a{
+a {
 	text-decoration-line: none;
+}
+
+#press img:hover{
+	border-color: #ccc;
+	cursor: pointer;
 }
