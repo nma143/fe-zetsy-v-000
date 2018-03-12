@@ -28,5 +28,7 @@ h1 {
 	margin: 0 0 5px;
 }
 #featured img{
-	border: 5px rgb(152,173,166) solid;
+	border-width: 5px;
+	border-style: solid;
+	border-color: rgb(152, 173, 166);
 }
